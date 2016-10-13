@@ -67,7 +67,6 @@ namespace BANK
                 lbl_messageCreditAmount.Text = "Сумма разрешена";
                 btn_saveNewCredit.Enabled = true;
             }
-    
         }
     }
 }
