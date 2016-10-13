@@ -1,0 +1,8 @@
+C:\Project2\BANKretail\BANKretail\bin\Debug\BANKretail.exe.config
+C:\Project2\BANKretail\BANKretail\bin\Debug\BANKretail.exe
+C:\Project2\BANKretail\BANKretail\bin\Debug\BANKretail.pdb
+C:\Project2\BANKretail\BANKretail\obj\Debug\BANKretail.MainForm.resources
+C:\Project2\BANKretail\BANKretail\obj\Debug\BANKretail.Properties.Resources.resources
+C:\Project2\BANKretail\BANKretail\obj\Debug\BANKretail.csproj.GenerateResource.Cache
+C:\Project2\BANKretail\BANKretail\obj\Debug\BANKretail.exe
+C:\Project2\BANKretail\BANKretail\obj\Debug\BANKretail.pdb
