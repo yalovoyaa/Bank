@@ -35,9 +35,9 @@ namespace BANK
                         foreach (DbDataRecord result in dr)
                             allDebitors.Add(result);
                 }
-                catch
-                { 
-                
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
                 }
             }
             return allDebitors;
@@ -81,9 +81,9 @@ namespace BANK
                         foreach (DbDataRecord result in dr)
                             SearchDebitors.Add(result);
                 }
-                catch
+                catch (Exception ex)
                 {
-
+                    MessageBox.Show(ex.Message);
                 }
             }
             return SearchDebitors;
@@ -115,9 +115,9 @@ namespace BANK
                         foreach (DbDataRecord result in dr)
                             allCredits.Add(result);
                 }
-                catch
+                catch (Exception ex)
                 {
-
+                    MessageBox.Show(ex.Message);
                 }
             }
             return allCredits;
@@ -140,9 +140,9 @@ namespace BANK
                         foreach (DbDataRecord result in dr)
                             allPayments.Add(result);
                 }
-                catch
+                catch (Exception ex)
                 {
-
+                    MessageBox.Show(ex.Message);
                 }
             }
             return allPayments;
@@ -167,9 +167,9 @@ namespace BANK
                         flagResult = true;
 
                 }
-                catch
-                { 
-                
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
                 }
             }
             return flagResult;     
@@ -221,9 +221,9 @@ namespace BANK
                     if (com.ExecuteNonQuery() == 1)
                         flagResult = true;
                 }
-                catch (Exception)
-                { 
-                
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
                 }
             }
             return flagResult;
