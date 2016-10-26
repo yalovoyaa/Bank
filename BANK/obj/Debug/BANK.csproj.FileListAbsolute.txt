@@ -38,7 +38,6 @@ C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANKretail.exe
 C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANKretail.pdb
 C:\Users\Admin\Documents\Bank\BANK\bin\Debug\BANKretail.exe
 C:\Users\Admin\Documents\Bank\BANK\bin\Debug\BANKretail.pdb
-C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANK.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANK.MainForm.resources
 C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANK.NewCredit.resources
 C:\Users\Admin\Documents\Bank\BANK\obj\Debug\BANK.NewDebitor.resources

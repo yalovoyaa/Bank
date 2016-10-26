@@ -16,7 +16,7 @@ namespace BANK
 {
     class DAL
     {
-        //строка соединения с БД..
+        //строка соединения с БД
         //string connectionString = @"Data Source=DELL;Initial Catalog=BANK;Integrated Security=True;";
         public string connectionString = ConfigurationManager.ConnectionStrings["BANKConnectionString"].ConnectionString;
 
